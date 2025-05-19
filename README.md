@@ -2,3 +2,4 @@
 # "1°M01-IPI ensino medio"
 # "Unidade Curricular Versionamento"
 # "Empresa Agua viva"
+# "Versionamento é o processo de controlar e registrar as alterações em arquivos ou projetos ao longo do tempo, permitindo acompanhar a evolução e restaurar versões anteriores quando necessário."
